@@ -19,6 +19,19 @@ h2 {
   color: #B4C34F;
 }
 
+#main_image img {
+  margin-top:30px;
+  border: 8px solid #FAF3BC;
+  height:200px
+}
+
+#main_side_image img {
+  margin-top:30px;
+  border: 8px solid #FAF3BC;
+  height:200px
+}
+
+
 .btn {
   color: #FAF3BC;
   background: #4F869F url('img/texture.png') no-repeat right top;
@@ -51,13 +64,15 @@ ul.nav li a {
   margin: 50px 0 75px 0;
 }
 
-#new-cupcakes img {
+#places img {
   border: 8px solid #FAF3BC;
   margin: 0 0 20px 0;
+  height:180px
 }
 
-#featured-cupcake img {
+#featured img {
   border: 8px solid #FAF3BC;
+  height:400px;
 }
 
 #copyright {
