@@ -46,13 +46,12 @@ h2 {
   float:right;
 }
 
-
 .btn {
   color: #FAF3BC;
+  font-size: 20px;
   background: #4F869F url('img/bg-texture.png') no-repeat right top;
   padding: 15px 30px;
-  margin: 40px 0px;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .btn:hover {
@@ -102,10 +101,10 @@ ul.nav li a {
     margin-right:20px;
 }
 
-#featured img {
-  border: 8px solid #FAF3BC;
-  height:400px;
+#featured iframe {
+  border: 8px solid #AAFFAA;
 }
+
 
 #copyright {
   border-top: 8px solid #2A0400;
