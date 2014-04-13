@@ -1,7 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
   color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  background: #AAF;
+}
+.container {
+  background: #00F;
+  padding: 0 20px;
 }
 
 a {
