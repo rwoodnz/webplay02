@@ -1,9 +1,8 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   color: #FAF3BC;
-  background: #AAF;
+  background: url('img/photo.jpg');
 }
-
 
 .container {
   background: #00F;
@@ -46,7 +45,7 @@ h2 {
 
 .btn {
   color: #FAF3BC;
-  background: #4F869F url('img/texture.png') no-repeat right top;
+  background: #4F869F url('img/bg-texture.png') no-repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
   border-radius: 25px;
