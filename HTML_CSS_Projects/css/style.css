@@ -4,6 +4,10 @@ body {
   background: url('img/photo.jpg');
 }
 
+p {
+  color: #FAF3BC;
+}
+
 .container {
   background: #00F;
   padding: 0 20px;
@@ -31,13 +35,13 @@ h2 {
 
 #main_image img {
   margin-top:30px;
-  border: 4px solid #FAF3BC;
+  border: 4px solid #AAFFAA;
   height:50px;
 }
 
 #main_side_image img {
   margin-top:30px;
-  border: 4px solid #FAF3BC;
+  border: 8px solid #AAFFAA;
   height:200px;
   float:right;
 }
@@ -53,8 +57,7 @@ h2 {
 
 .btn:hover {
   background-color: #4CC4A7;
-    text-transform: uppercase;
-
+  text-transform: uppercase;
 }
 
 ul.nav {
@@ -88,7 +91,7 @@ ul.nav li a {
   margin-left:-20px;
 }
 #places img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #AAFFAA;
   margin-bottom: 24px;
   height:180px;
   float: right;
