@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  color: #FAF3BC;
+  color: #FAF3FF;
 }
 
 .container {
@@ -90,6 +90,7 @@ ul.nav li a {
 #places p {
   margin-left:-20px;
 }
+
 #places img {
   border: 8px solid #AAFFAA;
   margin-bottom: 24px;
